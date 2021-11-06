@@ -1,0 +1,26 @@
+.daysInCalendar {
+    width: 30px;
+    pointer-events:none;
+    border-color:lightslategrey;
+    border-width: 0.5px;
+    text-align: center;
+}
+
+#controls {
+    padding: 20px;
+}
+
+input {
+    width: max-content;
+    border-color:lightslategrey;
+    border-style: solid;
+    border-width: 0.5px;
+}
+
+#table {
+    padding: 20px;
+}
+
+div {
+    padding-left: 20px;
+}
